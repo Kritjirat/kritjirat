@@ -18,8 +18,6 @@
 - 📱 Passionate about **mobile development** (Flutter/Dart) and **full-stack development** (Spring Boot, PostgreSQL)
 - 🏝️ Currently building **Wellness Tourism Route Planner** — a full-stack mobile app (Flutter + Spring Boot API) that helps travelers plan wellness-focused trips
 - 🏆 3-time Academic Excellence Award recipient
-- 🎥 Create tech content on TikTok, breaking down concepts like web cookies and dev tools
-- 🤝 Volunteer teaching AI research tools (Perplexity, NotebookLM) to Grade 9 students
 - 🎯 2025/2026 goal: land an internship in **Mobile Development (Flutter)** or **Full-Stack Development**
 - 📫 Reach me: [kritjirattkj@gmail.com](mailto:kritjirattkj@gmail.com)
 
