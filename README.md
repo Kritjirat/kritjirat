@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Krit 👋
+# Hi, I'm Kritjirat Thunkitjai 👋
 
 ### Mobile Developer (Flutter) • Full-Stack Developer • IT Student
 
