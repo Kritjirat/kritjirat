@@ -1,7 +1,7 @@
 [README (1).md](https://github.com/user-attachments/files/30451957/README.1.md)
 <div align="center">
 
-# Hi, I'm Krit 👋
+# Hi, I'm Kritjirat Thunkitjai 👋
 
 ### Mobile Developer (Flutter) • Full-Stack Developer • IT Student
 
